@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/74/htdocs/news/posts
+END
+new.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/54/htdocs/news/posts/new.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/49/htdocs/news/posts/view.php
+END
+delete.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/46/htdocs/news/posts/delete.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/44/htdocs/news/posts/update.php
+END
+create.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/44/htdocs/news/posts/create.php
+END
+own.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/74/htdocs/news/posts/own.php
+END
+delete_comment.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/46/htdocs/news/posts/delete_comment.php
+END
+create_comment.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/44/htdocs/news/posts/create_comment.php
+END
+edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/50/htdocs/news/posts/edit.php
+END
